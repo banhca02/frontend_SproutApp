@@ -1,6 +1,7 @@
 import axios from "axios";
 
-const api = process.env.API_URL;
+const api = process.env.REACT_APP_API_URL;
+
 //const api =  'https://doandanganh.onrender.com/api' 
 //const api = 'http://localhost:8000/api'
 // Tạo một instance mới của axios
