@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import Header from "../components/Header";
-import Footer from "../components/Footer";
-import Sidebar from "../components/Sidebar";
-import axiosInstance from "../components/axiosInstance"; // Dùng axiosInstance đã cấu hình
+import Header from "../../components/Header";
+import Footer from "../../components/Footer";
+import Sidebar from "../../components/Sidebar";
+import axiosInstance from "../../components/axiosInstance"; // Dùng axiosInstance đã cấu hình
 
 //const api = "https://doandanganh.onrender.com/api";
 

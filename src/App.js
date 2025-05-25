@@ -6,7 +6,7 @@ import RegisterPage from "./pages/RegisterPage";
 import OverviewPage from "./pages/OverviewPage";
 import ForgotPassword from "./pages/ForgotPassword";
 import AccountSettings from "./pages/AccountSettings";
-import DiseaseStatus from "./pages/DiseaseStatus";
+import DiseaseStatus from "./pages/dashboard/DiseaseStatus";
 import DashboardLightPage from "./pages/dashboard/LightInfo";
 import DashboardTempPage from "./pages/dashboard/TempInfo";
 import DashboardHumidityPage from "./pages/dashboard/HumidityInfo";
