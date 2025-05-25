@@ -26,7 +26,7 @@ function App() {
         <Route path="/dashboard/light" element={<DashboardLightPage />} />
         <Route path="/dashboard/temperature" element={<DashboardTempPage />} />
         <Route path="/dashboard/humidity" element={<DashboardHumidityPage />} />
-        <Route path="/dashboard/disease-status" element={<DiseaseStatus />} />
+        <Route path="/dashboard/diseasestatus" element={<DiseaseStatus />} />
       </Routes>
     </Router>
   );

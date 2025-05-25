@@ -7,7 +7,7 @@ const Sidebar = ({ activeItem }) => {
     { label: "Ánh sáng", path: "/dashboard/light", key: "light" },
     { label: "Nhiệt độ", path: "/dashboard/temperature", key: "temperature" },
     { label: "Độ ẩm", path: "/dashboard/humidity", key: "humidity" },
-    { label: "Tình trạng sâu bệnh", path: "/dashboard/disease-status", key: "disease-status" },
+    { label: "Tình trạng sâu bệnh", path: "/dashboard/diseasestatus", key: "disease-status" },
   ];
 
   return (
